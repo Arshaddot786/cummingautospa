@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.cummingautospa.com/sitemap.xml
+
+# Block unnecessary crawling of assets
+Disallow: /assets/
+Disallow: /*.json$
